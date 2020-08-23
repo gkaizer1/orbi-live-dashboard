@@ -2,6 +2,8 @@
 
 Live dashboard for orbi router - meant to be run on a raspberry pi
 
+![Dashboard Example](dashboard.png)
+
 ## Running the dashboard
 
 1. Install python3.7
